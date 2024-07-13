@@ -1,6 +1,7 @@
-This SwiftUI project is a design-focused e-commerce app for clothing. It leverages modern SwiftUI capabilities to create a sleek and user-friendly interface. The project also utilizes SwiftGen for efficient asset management and includes custom fonts Poppins and Fairplay for a unique look and feel.
+![cover](https://github.com/ihusnainalii/Clothing/blob/main/Screenshots/1.png)
 
-![Screenshots](https://github.com/ihusnainalii/Clothing/blob/main/Screenshots/1.png)
+# Clothing home page design
+This SwiftUI project is a design-focused e-commerce app for clothing. It leverages modern SwiftUI capabilities to create a sleek and user-friendly interface. The project also utilizes SwiftGen for efficient asset management and includes custom fonts Poppins and Fairplay for a unique look and feel.
 
 ## Features
 
