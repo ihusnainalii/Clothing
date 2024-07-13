@@ -19,10 +19,6 @@ This SwiftUI project is a design-focused e-commerce app for clothing. It leverag
 ![Screenshots](https://github.com/ihusnainalii/Clothing/blob/main/Screenshots/3.png)
 ![Screenshots](https://github.com/ihusnainalii/Clothing/blob/main/Screenshots/4.png)
 
-## Design
-
-[![Design](https://github.com/ihusnainalii/Clothing/blob/main/Screenshots/2.png)](https://github.com/ihusnainalii/Clothing/blob/main/Design/Design.png)
-
 ## Installation
 
 To get started with this project, follow these steps:
